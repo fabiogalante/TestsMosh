@@ -1,4 +1,4 @@
-﻿namespace TestMoshClassLibrary
+﻿namespace TestMoshClassLibrary.Fundamentals
 {
     public class HtmlFormater
     {

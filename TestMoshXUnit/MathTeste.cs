@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 using Xunit;
-using Math = TestMoshClassLibrary.Math;
+using Math = TestMoshClassLibrary.Fundamentals.Math;
 
 namespace TestMoshXUnit
 {

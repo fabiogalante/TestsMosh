@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace TestMoshClassLibrary
+namespace TestMoshClassLibrary.Fundamentals
 {
     public class Math
     {

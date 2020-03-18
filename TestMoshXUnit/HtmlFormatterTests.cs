@@ -1,4 +1,4 @@
-using TestMoshClassLibrary;
+using TestMoshClassLibrary.Fundamentals;
 using Xunit;
 
 namespace TestMoshXUnit
